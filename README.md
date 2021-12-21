@@ -20,4 +20,4 @@ Example 2: Late Reminder Email
 
 
 
-<img width="755" alt="Screen Shot 2021-12-20 at 6 53 33 PM" src="https://user-images.githubusercontent.com/75917131/146863253-b01032d9-55ff-4efb-85be-507f5df2de64.png">
+<img width="706" alt="Screen Shot 2021-12-20 at 6 53 43 PM" src="https://user-images.githubusercontent.com/75917131/146863356-9678ad53-2c06-4e83-98ff-14ebd855dea1.png">
