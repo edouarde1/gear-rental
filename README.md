@@ -1,4 +1,4 @@
-# VOCO Google App Script Gear Rental System 
+# VOCO Google App Script Gear Rental  
 
 Simple gear rental system gathers rental information from a google sheet to deliver auto-generated email reminders to gear renters. This code is currently active in a google sheet and is set of specific event triggers. New renters receive an email immediately after filling out a google form and late renters receive weekly reminder emails to return gear.
 
