@@ -6,10 +6,18 @@ Simple gear rental system gathers rental information and delivers auto-generated
 
 
 Example 1: New Rental Email 
-<img width="649" alt="Screen Shot 2021-12-20 at 6 49 43 PM" src="https://user-images.githubusercontent.com/75917131/146862533-ee95b6df-0f5a-42b2-936b-4fc33e8d6ad9.png">
+
+
+
+<img width="755" alt="Screen Shot 2021-12-20 at 6 53 33 PM" src="https://user-images.githubusercontent.com/75917131/146863242-b7972163-bd96-4b5a-8367-479ea6c3877e.png">
 
 
 
 
 
 Example 2: Late Reminder Email 
+
+
+
+
+<img width="755" alt="Screen Shot 2021-12-20 at 6 53 33 PM" src="https://user-images.githubusercontent.com/75917131/146863253-b01032d9-55ff-4efb-85be-507f5df2de64.png">
